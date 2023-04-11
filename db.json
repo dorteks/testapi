@@ -1,5 +1,5 @@
 {
-    "blog_data_display": [
+    "blogdata_display": [
     {
       "id": 1,
       "imageSrc": "/assets/blog-logo.svg",
@@ -122,7 +122,7 @@
     }
   ],
   
-  "BlogData": [
+  "blogdata": [
     {
       "id": 1,
       "imageSrc": "/assets/blog-logo.svg",
